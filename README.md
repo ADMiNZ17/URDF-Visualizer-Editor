@@ -38,7 +38,7 @@ Clone the repository directly into your home directory (`/home/$USER/URDF-Visual
 
 ```bash
 # Clone directly into your home directory
-git clone [https://github.com/ADMiNZ17/URDF-Visualizer-Editor.git](https://github.com/ADMiNZ17/URDF-Visualizer-Editor.git) ~/URDF-Visualizer-Editor
+git clone https://github.com/ADMiNZ17/URDF-Visualizer-Editor.git ~/URDF-Visualizer-Editor
 
 # Navigate to the project folder
 cd ~/URDF-Visualizer-Editor
