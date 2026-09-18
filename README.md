@@ -66,7 +66,7 @@ python3 mplot3d.py
 
 ## 📂 Repository Structure
 ```
-URDF-Visualize-Tool/
+URDF-Visualizer-Editor/
 ├── Example.xacro         # Sample robot model file
 ├── dependency.sh         # Shell script to auto-install dependencies & setup venv
 ├── mplot3d.py            # Main application logic and 3D rendering pipeline
