@@ -30,7 +30,7 @@ If you are new to robotics, these concepts are essential:
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
-* Windows 10/11 with **WSL2** (Ubuntu environment) installed.
+* Windows 10/11 with **WSL2** (Ubuntu environment) installed **or** Ubuntu 20 - 26.
 * Python 3.8+
 
 ### 1. Installation & Cloning
@@ -67,7 +67,7 @@ python3 mplot3d.py
 ## 📂 Repository Structure
 ```
 URDF-Visualize-Tool/
-├── Example.xacro           # Sample robot model file
+├── Example.xacro         # Sample robot model file
 ├── dependency.sh         # Shell script to auto-install dependencies & setup venv
 ├── mplot3d.py            # Main application logic and 3D rendering pipeline
 ├── scuttle_custom.xacro  # Auto-generated customized output file
